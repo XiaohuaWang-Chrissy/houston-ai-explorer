@@ -1,8 +1,7 @@
 <script>
-  import { onMount } from 'svelte'
   import TrendChart from './components/TrendChart.svelte'
+  import raw from './data/houston_data.json'
 
-  const API = 'http://localhost:8000'
   const TIER_COLOR = { High: '#e63946', Medium: '#f4a261', Low: '#2a9d8f' }
   const TIER_LABEL = {
     High: 'High AI Exposure',
@@ -10,22 +9,23 @@
     Low: 'Low AI Exposure',
   }
 
-  let industries = []
+  const industriesMap = Object.fromEntries(raw.industries.map(i => [i.NAICS_3digit, i]))
+  const trendMap = {}
+  for (const row of raw.industry_trend) {
+    trendMap[row.NAICS_3digit] = trendMap[row.NAICS_3digit] || []
+    trendMap[row.NAICS_3digit].push(row)
+  }
+
+  const industries = [...raw.industries].sort((a, b) => a.Industry.localeCompare(b.Industry))
+
   let selected = ''
   let data = null
-  let loading = false
 
-  onMount(async () => {
-    const res = await fetch(`${API}/api/industries`)
-    industries = await res.json()
-  })
-
-  async function onSelect() {
+  function onSelect() {
     if (!selected) return
-    loading = true
-    const res = await fetch(`${API}/api/industry/${selected}`)
-    data = await res.json()
-    loading = false
+    const info = industriesMap[selected]
+    const trend = (trendMap[selected] || []).sort((a, b) => a.Year - b.Year)
+    data = { info, trend, tier_trend: raw.tier_trend }
   }
 
   $: tier = data?.info?.AI_Tier
@@ -52,9 +52,7 @@
     </select>
   </section>
 
-  {#if loading}
-    <p class="loading">Loading...</p>
-  {:else if data}
+  {#if data}
     <section class="result">
 
       <div class="score-card" style="border-color: {tierColor}">
@@ -246,11 +244,6 @@
     background: #fff;
     border-radius: 4px;
     cursor: pointer;
-  }
-
-  .loading {
-    text-align: center;
-    color: #888;
   }
 
   .score-card {
