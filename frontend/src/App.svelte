@@ -38,7 +38,7 @@
     <h1>Houston AI Exposure Explorer</h1>
     <p class="subtitle">
       Select your industry to see how exposed it is to AI — and how wages and
-      employment have shifted from 2022 to 2025.
+      employment have shifted from 2022 to 2024.
     </p>
   </header>
 
@@ -84,7 +84,7 @@
 
       <div class="charts">
         <TrendChart
-          title="Average Weekly Wage (2022–2025)"
+          title="Average Weekly Wage (2022–2024)"
           industryTrend={data.trend}
           tierTrend={data.tier_trend}
           metric="Average Weekly Wage"
@@ -93,7 +93,7 @@
           colors={TIER_COLOR}
         />
         <TrendChart
-          title="Average Employment (2022–2025)"
+          title="Average Employment (2022–2024)"
           industryTrend={data.trend}
           tierTrend={data.tier_trend}
           metric="Average Employment"
@@ -148,7 +148,7 @@
             Texas Labor Market Information QCEW
           </a>
           for the Houston–Pasadena–The Woodlands metropolitan area, covering
-          Q1 2022 through Q4 2025. Data is reported at the 3-digit NAICS level
+          Q1 2022 through Q4 2024. Data is reported at the 3-digit NAICS level
           for private-sector employers.
         </p>
       </div>
@@ -169,12 +169,6 @@
       <h3>Limitations</h3>
       <ul>
         <li>
-          <strong>2025 data covers Q1–Q3 only.</strong> The 2025 figures are based
-          on three quarters rather than a full year, and are not directly comparable
-          to prior years. Q4 — typically a higher-wage, higher-employment period —
-          is not included.
-        </li>
-        <li>
           <strong>OES occupation mix is national, not Houston-specific.</strong>
           AI exposure scores are computed using national industry-occupation
           proportions. Houston's economy — particularly its energy sector — may
@@ -194,7 +188,7 @@
 <style>
   :global(body) {
     margin: 0;
-    font-family: 'Georgia', serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
     background: #f9f7f4;
     color: #1a1a1a;
   }
