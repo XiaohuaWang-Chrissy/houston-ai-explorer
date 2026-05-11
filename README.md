@@ -33,10 +33,9 @@ For each 3-digit NAICS industry, we computed a **weighted average AI exposure sc
 Industry AI Score = Σ (occupation AI score × occupation employment) / total industry employment
 ```
 
-Industries were then divided into three equal tiers (High / Medium / Low) using quantile-based binning. Wage and employment trends are drawn from the Texas QCEW for the Houston–Pasadena–The Woodlands metro area, private sector only, 2022–2025.
+Industries were then divided into three equal tiers (High / Medium / Low) using quantile-based binning. Wage and employment trends are drawn from the Texas QCEW for the Houston–Pasadena–The Woodlands metro area, private sector only, 2022–2024.
 
 **Limitations:**
-- 2025 data covers Q1–Q3 only
 - OES occupation mix is national, not Houston-specific
 - Tier averages weight all industries equally regardless of size
 

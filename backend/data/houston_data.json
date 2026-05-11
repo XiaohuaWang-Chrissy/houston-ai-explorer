@@ -534,13 +534,6 @@
       "Average Employment": 183.25
     },
     {
-      "NAICS_3digit": "113",
-      "Industry": "Forestry and Logging",
-      "Year": 2025,
-      "Average Weekly Wage": 1131.6666666666667,
-      "Average Employment": 162.33333333333334
-    },
-    {
       "NAICS_3digit": "115",
       "Industry": "Support Activities for Agriculture and Forestry",
       "Year": 2022,
@@ -560,13 +553,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1155.75,
       "Average Employment": 711.5
-    },
-    {
-      "NAICS_3digit": "115",
-      "Industry": "Support Activities for Agriculture and Forestry",
-      "Year": 2025,
-      "Average Weekly Wage": 1056.3333333333333,
-      "Average Employment": 908.6666666666666
     },
     {
       "NAICS_3digit": "211",
@@ -590,13 +576,6 @@
       "Average Employment": 36330.25
     },
     {
-      "NAICS_3digit": "211",
-      "Industry": "Oil and Gas Extraction",
-      "Year": 2025,
-      "Average Weekly Wage": 6021.666666666667,
-      "Average Employment": 35620.666666666664
-    },
-    {
       "NAICS_3digit": "212",
       "Industry": "Mining (except Oil and Gas)",
       "Year": 2022,
@@ -616,13 +595,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1778.75,
       "Average Employment": 1226.25
-    },
-    {
-      "NAICS_3digit": "212",
-      "Industry": "Mining (except Oil and Gas)",
-      "Year": 2025,
-      "Average Weekly Wage": 1728.6666666666667,
-      "Average Employment": 1266.6666666666667
     },
     {
       "NAICS_3digit": "213",
@@ -646,13 +618,6 @@
       "Average Employment": 36565.5
     },
     {
-      "NAICS_3digit": "213",
-      "Industry": "Support Activities for Mining",
-      "Year": 2025,
-      "Average Weekly Wage": 3360.3333333333335,
-      "Average Employment": 34714.333333333336
-    },
-    {
       "NAICS_3digit": "221",
       "Industry": "Utilities ",
       "Year": 2022,
@@ -672,13 +637,6 @@
       "Year": 2024,
       "Average Weekly Wage": 3079.5,
       "Average Employment": 23633.25
-    },
-    {
-      "NAICS_3digit": "221",
-      "Industry": "Utilities ",
-      "Year": 2025,
-      "Average Weekly Wage": 3503.6666666666665,
-      "Average Employment": 23300.666666666668
     },
     {
       "NAICS_3digit": "236",
@@ -702,13 +660,6 @@
       "Average Employment": 58141.5
     },
     {
-      "NAICS_3digit": "236",
-      "Industry": "Construction of Buildings",
-      "Year": 2025,
-      "Average Weekly Wage": 2076.0,
-      "Average Employment": 62371.333333333336
-    },
-    {
       "NAICS_3digit": "237",
       "Industry": "Heavy and Civil Engineering Construction",
       "Year": 2022,
@@ -728,13 +679,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1995.0,
       "Average Employment": 55411.5
-    },
-    {
-      "NAICS_3digit": "237",
-      "Industry": "Heavy and Civil Engineering Construction",
-      "Year": 2025,
-      "Average Weekly Wage": 1970.3333333333333,
-      "Average Employment": 62382.333333333336
     },
     {
       "NAICS_3digit": "238",
@@ -758,13 +702,6 @@
       "Average Employment": 114607.25
     },
     {
-      "NAICS_3digit": "238",
-      "Industry": "Specialty Trade Contractors",
-      "Year": 2025,
-      "Average Weekly Wage": 1499.3333333333333,
-      "Average Employment": 120407.33333333333
-    },
-    {
       "NAICS_3digit": "311",
       "Industry": "Food Manufacturing",
       "Year": 2022,
@@ -784,13 +721,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1012.0,
       "Average Employment": 13827.25
-    },
-    {
-      "NAICS_3digit": "311",
-      "Industry": "Food Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 967.6666666666666,
-      "Average Employment": 13391.0
     },
     {
       "NAICS_3digit": "312",
@@ -814,13 +744,6 @@
       "Average Employment": 4528.75
     },
     {
-      "NAICS_3digit": "312",
-      "Industry": "Beverage and Tobacco Product Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 1552.3333333333333,
-      "Average Employment": 4497.333333333333
-    },
-    {
       "NAICS_3digit": "313",
       "Industry": "Textile Mills",
       "Year": 2022,
@@ -840,13 +763,6 @@
       "Year": 2024,
       "Average Weekly Wage": 855.5,
       "Average Employment": 278.25
-    },
-    {
-      "NAICS_3digit": "313",
-      "Industry": "Textile Mills",
-      "Year": 2025,
-      "Average Weekly Wage": 1131.3333333333333,
-      "Average Employment": 171.33333333333334
     },
     {
       "NAICS_3digit": "314",
@@ -870,13 +786,6 @@
       "Average Employment": 1375.75
     },
     {
-      "NAICS_3digit": "314",
-      "Industry": "Textile Product Mills",
-      "Year": 2025,
-      "Average Weekly Wage": 843.0,
-      "Average Employment": 1397.6666666666667
-    },
-    {
       "NAICS_3digit": "315",
       "Industry": "Apparel Manufacturing",
       "Year": 2022,
@@ -896,13 +805,6 @@
       "Year": 2024,
       "Average Weekly Wage": 901.0,
       "Average Employment": 689.0
-    },
-    {
-      "NAICS_3digit": "315",
-      "Industry": "Apparel Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 1188.0,
-      "Average Employment": 798.0
     },
     {
       "NAICS_3digit": "316",
@@ -926,13 +828,6 @@
       "Average Employment": 178.5
     },
     {
-      "NAICS_3digit": "316",
-      "Industry": "Leather and Allied Product Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 733.3333333333334,
-      "Average Employment": 134.0
-    },
-    {
       "NAICS_3digit": "321",
       "Industry": "Wood Product Manufacturing",
       "Year": 2022,
@@ -952,13 +847,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1113.25,
       "Average Employment": 3047.0
-    },
-    {
-      "NAICS_3digit": "321",
-      "Industry": "Wood Product Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 1595.3333333333333,
-      "Average Employment": 3472.3333333333335
     },
     {
       "NAICS_3digit": "322",
@@ -982,13 +870,6 @@
       "Average Employment": 1738.25
     },
     {
-      "NAICS_3digit": "322",
-      "Industry": "Paper Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 1500.3333333333333,
-      "Average Employment": 1772.6666666666667
-    },
-    {
       "NAICS_3digit": "323",
       "Industry": "Printing and Related Support Activities",
       "Year": 2022,
@@ -1008,13 +889,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1096.0,
       "Average Employment": 4916.25
-    },
-    {
-      "NAICS_3digit": "323",
-      "Industry": "Printing and Related Support Activities",
-      "Year": 2025,
-      "Average Weekly Wage": 1078.3333333333333,
-      "Average Employment": 5108.0
     },
     {
       "NAICS_3digit": "324",
@@ -1038,13 +912,6 @@
       "Average Employment": 8063.25
     },
     {
-      "NAICS_3digit": "324",
-      "Industry": "Petroleum and Coal Products Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 4062.0,
-      "Average Employment": 7877.666666666667
-    },
-    {
       "NAICS_3digit": "325",
       "Industry": "Chemical Manufacturing",
       "Year": 2022,
@@ -1064,13 +931,6 @@
       "Year": 2024,
       "Average Weekly Wage": 3031.5,
       "Average Employment": 42474.0
-    },
-    {
-      "NAICS_3digit": "325",
-      "Industry": "Chemical Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 3221.3333333333335,
-      "Average Employment": 42823.0
     },
     {
       "NAICS_3digit": "326",
@@ -1094,13 +954,6 @@
       "Average Employment": 11270.0
     },
     {
-      "NAICS_3digit": "326",
-      "Industry": "Plastics and Rubber Products Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 1382.6666666666667,
-      "Average Employment": 11265.666666666666
-    },
-    {
       "NAICS_3digit": "327",
       "Industry": "Nonmetallic Mineral Product Manufacturing",
       "Year": 2022,
@@ -1120,13 +973,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1381.0,
       "Average Employment": 9095.75
-    },
-    {
-      "NAICS_3digit": "327",
-      "Industry": "Nonmetallic Mineral Product Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 1399.3333333333333,
-      "Average Employment": 8934.333333333334
     },
     {
       "NAICS_3digit": "331",
@@ -1150,13 +996,6 @@
       "Average Employment": 3381.0
     },
     {
-      "NAICS_3digit": "331",
-      "Industry": "Primary Metal Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 1666.6666666666667,
-      "Average Employment": 3530.3333333333335
-    },
-    {
       "NAICS_3digit": "332",
       "Industry": "Fabricated Metal Product Manufacturing",
       "Year": 2022,
@@ -1176,13 +1015,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1622.5,
       "Average Employment": 53095.75
-    },
-    {
-      "NAICS_3digit": "332",
-      "Industry": "Fabricated Metal Product Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 1603.0,
-      "Average Employment": 53951.0
     },
     {
       "NAICS_3digit": "333",
@@ -1206,13 +1038,6 @@
       "Average Employment": 39943.0
     },
     {
-      "NAICS_3digit": "333",
-      "Industry": "Machinery Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 2214.3333333333335,
-      "Average Employment": 39456.0
-    },
-    {
       "NAICS_3digit": "334",
       "Industry": "Computer and Electronic Product Manufacturing",
       "Year": 2022,
@@ -1232,13 +1057,6 @@
       "Year": 2024,
       "Average Weekly Wage": 2372.25,
       "Average Employment": 13945.5
-    },
-    {
-      "NAICS_3digit": "334",
-      "Industry": "Computer and Electronic Product Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 2237.6666666666665,
-      "Average Employment": 14689.333333333334
     },
     {
       "NAICS_3digit": "335",
@@ -1262,13 +1080,6 @@
       "Average Employment": 7857.75
     },
     {
-      "NAICS_3digit": "335",
-      "Industry": "Electrical Equipment, Appliance, and Component Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 1788.6666666666667,
-      "Average Employment": 8530.666666666666
-    },
-    {
       "NAICS_3digit": "336",
       "Industry": "Transportation Equipment Manufacturing",
       "Year": 2022,
@@ -1288,13 +1099,6 @@
       "Year": 2024,
       "Average Weekly Wage": 2039.25,
       "Average Employment": 6110.5
-    },
-    {
-      "NAICS_3digit": "336",
-      "Industry": "Transportation Equipment Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 1983.0,
-      "Average Employment": 5006.333333333333
     },
     {
       "NAICS_3digit": "337",
@@ -1318,13 +1122,6 @@
       "Average Employment": 3220.25
     },
     {
-      "NAICS_3digit": "337",
-      "Industry": "Furniture and Related Product Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 1080.3333333333333,
-      "Average Employment": 3281.6666666666665
-    },
-    {
       "NAICS_3digit": "339",
       "Industry": "Miscellaneous Manufacturing",
       "Year": 2022,
@@ -1344,13 +1141,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1370.0,
       "Average Employment": 7480.75
-    },
-    {
-      "NAICS_3digit": "339",
-      "Industry": "Miscellaneous Manufacturing",
-      "Year": 2025,
-      "Average Weekly Wage": 1461.6666666666667,
-      "Average Employment": 7573.0
     },
     {
       "NAICS_3digit": "423",
@@ -1374,13 +1164,6 @@
       "Average Employment": 103759.75
     },
     {
-      "NAICS_3digit": "423",
-      "Industry": "Merchant Wholesalers, Durable Goods ",
-      "Year": 2025,
-      "Average Weekly Wage": 2015.3333333333333,
-      "Average Employment": 103476.66666666667
-    },
-    {
       "NAICS_3digit": "424",
       "Industry": "Merchant Wholesalers, Nondurable Goods ",
       "Year": 2022,
@@ -1400,13 +1183,6 @@
       "Year": 2024,
       "Average Weekly Wage": 2305.25,
       "Average Employment": 51951.0
-    },
-    {
-      "NAICS_3digit": "424",
-      "Industry": "Merchant Wholesalers, Nondurable Goods ",
-      "Year": 2025,
-      "Average Weekly Wage": 2447.6666666666665,
-      "Average Employment": 52339.0
     },
     {
       "NAICS_3digit": "425",
@@ -1430,13 +1206,6 @@
       "Average Employment": 9720.25
     },
     {
-      "NAICS_3digit": "425",
-      "Industry": "Wholesale Trade Agents and Brokers",
-      "Year": 2025,
-      "Average Weekly Wage": 2429.3333333333335,
-      "Average Employment": 9611.333333333334
-    },
-    {
       "NAICS_3digit": "441",
       "Industry": "Motor Vehicle and Parts Dealers ",
       "Year": 2022,
@@ -1456,13 +1225,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1432.75,
       "Average Employment": 43940.0
-    },
-    {
-      "NAICS_3digit": "441",
-      "Industry": "Motor Vehicle and Parts Dealers ",
-      "Year": 2025,
-      "Average Weekly Wage": 1453.6666666666667,
-      "Average Employment": 44823.0
     },
     {
       "NAICS_3digit": "444",
@@ -1486,13 +1248,6 @@
       "Average Employment": 24246.75
     },
     {
-      "NAICS_3digit": "444",
-      "Industry": "Building Material and Garden Equipment and Supplies Dealers ",
-      "Year": 2025,
-      "Average Weekly Wage": 898.3333333333334,
-      "Average Employment": 24140.0
-    },
-    {
       "NAICS_3digit": "445",
       "Industry": "Food and Beverage Retailers",
       "Year": 2022,
@@ -1512,13 +1267,6 @@
       "Year": 2024,
       "Average Weekly Wage": 653.25,
       "Average Employment": 76354.0
-    },
-    {
-      "NAICS_3digit": "445",
-      "Industry": "Food and Beverage Retailers",
-      "Year": 2025,
-      "Average Weekly Wage": 662.0,
-      "Average Employment": 76450.66666666667
     },
     {
       "NAICS_3digit": "449",
@@ -1542,13 +1290,6 @@
       "Average Employment": 18458.0
     },
     {
-      "NAICS_3digit": "449",
-      "Industry": "Furniture, Home Furnishings, Electronics, and Appliance Retailers",
-      "Year": 2025,
-      "Average Weekly Wage": 1066.6666666666667,
-      "Average Employment": 17421.0
-    },
-    {
       "NAICS_3digit": "455",
       "Industry": "General Merchandise Retailers",
       "Year": 2022,
@@ -1568,13 +1309,6 @@
       "Year": 2024,
       "Average Weekly Wage": 632.0,
       "Average Employment": 63357.25
-    },
-    {
-      "NAICS_3digit": "455",
-      "Industry": "General Merchandise Retailers",
-      "Year": 2025,
-      "Average Weekly Wage": 657.0,
-      "Average Employment": 62072.0
     },
     {
       "NAICS_3digit": "456",
@@ -1598,13 +1332,6 @@
       "Average Employment": 20308.5
     },
     {
-      "NAICS_3digit": "456",
-      "Industry": "Health and Personal Care Retailers",
-      "Year": 2025,
-      "Average Weekly Wage": 927.0,
-      "Average Employment": 20574.0
-    },
-    {
       "NAICS_3digit": "457",
       "Industry": "Gasoline Stations and Fuel Dealers",
       "Year": 2022,
@@ -1624,13 +1351,6 @@
       "Year": 2024,
       "Average Weekly Wage": 676.25,
       "Average Employment": 18360.75
-    },
-    {
-      "NAICS_3digit": "457",
-      "Industry": "Gasoline Stations and Fuel Dealers",
-      "Year": 2025,
-      "Average Weekly Wage": 664.3333333333334,
-      "Average Employment": 17316.333333333332
     },
     {
       "NAICS_3digit": "458",
@@ -1654,13 +1374,6 @@
       "Average Employment": 25135.0
     },
     {
-      "NAICS_3digit": "458",
-      "Industry": "Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
-      "Year": 2025,
-      "Average Weekly Wage": 567.6666666666666,
-      "Average Employment": 24435.666666666668
-    },
-    {
       "NAICS_3digit": "459",
       "Industry": "Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
       "Year": 2022,
@@ -1680,13 +1393,6 @@
       "Year": 2024,
       "Average Weekly Wage": 650.25,
       "Average Employment": 25541.0
-    },
-    {
-      "NAICS_3digit": "459",
-      "Industry": "Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
-      "Year": 2025,
-      "Average Weekly Wage": 652.3333333333334,
-      "Average Employment": 25315.0
     },
     {
       "NAICS_3digit": "481",
@@ -1710,20 +1416,6 @@
       "Average Employment": 21242.75
     },
     {
-      "NAICS_3digit": "481",
-      "Industry": "Air Transportation",
-      "Year": 2025,
-      "Average Weekly Wage": 2591.0,
-      "Average Employment": 20788.333333333332
-    },
-    {
-      "NAICS_3digit": "482",
-      "Industry": "Rail Transportation",
-      "Year": 2025,
-      "Average Weekly Wage": 1327.0,
-      "Average Employment": 7.0
-    },
-    {
       "NAICS_3digit": "483",
       "Industry": "Water Transportation",
       "Year": 2022,
@@ -1743,13 +1435,6 @@
       "Year": 2024,
       "Average Weekly Wage": 2398.75,
       "Average Employment": 3721.25
-    },
-    {
-      "NAICS_3digit": "483",
-      "Industry": "Water Transportation",
-      "Year": 2025,
-      "Average Weekly Wage": 2366.3333333333335,
-      "Average Employment": 3842.0
     },
     {
       "NAICS_3digit": "484",
@@ -1773,13 +1458,6 @@
       "Average Employment": 29196.75
     },
     {
-      "NAICS_3digit": "484",
-      "Industry": "Truck Transportation",
-      "Year": 2025,
-      "Average Weekly Wage": 1936.6666666666667,
-      "Average Employment": 29039.333333333332
-    },
-    {
       "NAICS_3digit": "485",
       "Industry": "Transit and Ground Passenger Transportation",
       "Year": 2022,
@@ -1799,13 +1477,6 @@
       "Year": 2024,
       "Average Weekly Wage": 884.5,
       "Average Employment": 3747.25
-    },
-    {
-      "NAICS_3digit": "485",
-      "Industry": "Transit and Ground Passenger Transportation",
-      "Year": 2025,
-      "Average Weekly Wage": 871.6666666666666,
-      "Average Employment": 3875.6666666666665
     },
     {
       "NAICS_3digit": "486",
@@ -1829,13 +1500,6 @@
       "Average Employment": 13909.0
     },
     {
-      "NAICS_3digit": "486",
-      "Industry": "Pipeline Transportation",
-      "Year": 2025,
-      "Average Weekly Wage": 4288.0,
-      "Average Employment": 15168.0
-    },
-    {
       "NAICS_3digit": "487",
       "Industry": "Scenic and Sightseeing Transportation",
       "Year": 2022,
@@ -1855,13 +1519,6 @@
       "Year": 2024,
       "Average Weekly Wage": 764.25,
       "Average Employment": 185.0
-    },
-    {
-      "NAICS_3digit": "487",
-      "Industry": "Scenic and Sightseeing Transportation",
-      "Year": 2025,
-      "Average Weekly Wage": 708.3333333333334,
-      "Average Employment": 129.66666666666666
     },
     {
       "NAICS_3digit": "488",
@@ -1885,13 +1542,6 @@
       "Average Employment": 37223.0
     },
     {
-      "NAICS_3digit": "488",
-      "Industry": "Support Activities for Transportation",
-      "Year": 2025,
-      "Average Weekly Wage": 1581.6666666666667,
-      "Average Employment": 38507.666666666664
-    },
-    {
       "NAICS_3digit": "491",
       "Industry": "Postal Service",
       "Year": 2022,
@@ -1911,13 +1561,6 @@
       "Year": 2024,
       "Average Weekly Wage": 656.0,
       "Average Employment": 334.5
-    },
-    {
-      "NAICS_3digit": "491",
-      "Industry": "Postal Service",
-      "Year": 2025,
-      "Average Weekly Wage": 614.0,
-      "Average Employment": 309.0
     },
     {
       "NAICS_3digit": "492",
@@ -1941,13 +1584,6 @@
       "Average Employment": 18839.25
     },
     {
-      "NAICS_3digit": "492",
-      "Industry": "Couriers and Messengers",
-      "Year": 2025,
-      "Average Weekly Wage": 906.6666666666666,
-      "Average Employment": 18748.666666666668
-    },
-    {
       "NAICS_3digit": "493",
       "Industry": "Warehousing and Storage",
       "Year": 2022,
@@ -1967,13 +1603,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1120.0,
       "Average Employment": 36314.5
-    },
-    {
-      "NAICS_3digit": "493",
-      "Industry": "Warehousing and Storage",
-      "Year": 2025,
-      "Average Weekly Wage": 1167.0,
-      "Average Employment": 36536.0
     },
     {
       "NAICS_3digit": "512",
@@ -1997,13 +1626,6 @@
       "Average Employment": 3250.25
     },
     {
-      "NAICS_3digit": "512",
-      "Industry": "Motion Picture and Sound Recording Industries",
-      "Year": 2025,
-      "Average Weekly Wage": 678.0,
-      "Average Employment": 3462.6666666666665
-    },
-    {
       "NAICS_3digit": "513",
       "Industry": "Publishing Industries",
       "Year": 2022,
@@ -2023,13 +1645,6 @@
       "Year": 2024,
       "Average Weekly Wage": 2651.25,
       "Average Employment": 6747.0
-    },
-    {
-      "NAICS_3digit": "513",
-      "Industry": "Publishing Industries",
-      "Year": 2025,
-      "Average Weekly Wage": 2856.6666666666665,
-      "Average Employment": 6441.666666666667
     },
     {
       "NAICS_3digit": "516",
@@ -2053,13 +1668,6 @@
       "Average Employment": 2476.5
     },
     {
-      "NAICS_3digit": "516",
-      "Industry": "Broadcasting and Content Providers",
-      "Year": 2025,
-      "Average Weekly Wage": 2075.6666666666665,
-      "Average Employment": 2396.0
-    },
-    {
       "NAICS_3digit": "517",
       "Industry": "Telecommunications",
       "Year": 2022,
@@ -2079,13 +1687,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1968.0,
       "Average Employment": 10499.75
-    },
-    {
-      "NAICS_3digit": "517",
-      "Industry": "Telecommunications",
-      "Year": 2025,
-      "Average Weekly Wage": 1995.0,
-      "Average Employment": 9565.0
     },
     {
       "NAICS_3digit": "518",
@@ -2109,13 +1710,6 @@
       "Average Employment": 3665.0
     },
     {
-      "NAICS_3digit": "518",
-      "Industry": "Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
-      "Year": 2025,
-      "Average Weekly Wage": 2716.0,
-      "Average Employment": 3409.6666666666665
-    },
-    {
       "NAICS_3digit": "519",
       "Industry": "Web Search Portals, Libraries, Archives, and Other Information Services",
       "Year": 2022,
@@ -2135,13 +1729,6 @@
       "Year": 2024,
       "Average Weekly Wage": 2282.25,
       "Average Employment": 332.0
-    },
-    {
-      "NAICS_3digit": "519",
-      "Industry": "Web Search Portals, Libraries, Archives, and Other Information Services",
-      "Year": 2025,
-      "Average Weekly Wage": 2284.0,
-      "Average Employment": 396.6666666666667
     },
     {
       "NAICS_3digit": "521",
@@ -2179,13 +1766,6 @@
       "Average Employment": 43520.5
     },
     {
-      "NAICS_3digit": "522",
-      "Industry": "Credit Intermediation and Related Activities",
-      "Year": 2025,
-      "Average Weekly Wage": 2286.6666666666665,
-      "Average Employment": 42653.0
-    },
-    {
       "NAICS_3digit": "523",
       "Industry": "Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
       "Year": 2022,
@@ -2205,13 +1785,6 @@
       "Year": 2024,
       "Average Weekly Wage": 5432.75,
       "Average Employment": 19381.5
-    },
-    {
-      "NAICS_3digit": "523",
-      "Industry": "Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
-      "Year": 2025,
-      "Average Weekly Wage": 5844.333333333333,
-      "Average Employment": 18827.666666666668
     },
     {
       "NAICS_3digit": "524",
@@ -2235,13 +1808,6 @@
       "Average Employment": 35443.5
     },
     {
-      "NAICS_3digit": "524",
-      "Industry": "Insurance Carriers and Related Activities",
-      "Year": 2025,
-      "Average Weekly Wage": 2236.3333333333335,
-      "Average Employment": 35594.0
-    },
-    {
       "NAICS_3digit": "525",
       "Industry": "Funds, Trusts, and Other Financial Vehicles ",
       "Year": 2022,
@@ -2261,13 +1827,6 @@
       "Year": 2024,
       "Average Weekly Wage": 6740.25,
       "Average Employment": 580.5
-    },
-    {
-      "NAICS_3digit": "525",
-      "Industry": "Funds, Trusts, and Other Financial Vehicles ",
-      "Year": 2025,
-      "Average Weekly Wage": 6223.0,
-      "Average Employment": 551.0
     },
     {
       "NAICS_3digit": "531",
@@ -2291,13 +1850,6 @@
       "Average Employment": 43880.5
     },
     {
-      "NAICS_3digit": "531",
-      "Industry": "Real Estate",
-      "Year": 2025,
-      "Average Weekly Wage": 1638.3333333333333,
-      "Average Employment": 42800.333333333336
-    },
-    {
       "NAICS_3digit": "532",
       "Industry": "Rental and Leasing Services",
       "Year": 2022,
@@ -2317,13 +1869,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1669.0,
       "Average Employment": 17430.75
-    },
-    {
-      "NAICS_3digit": "532",
-      "Industry": "Rental and Leasing Services",
-      "Year": 2025,
-      "Average Weekly Wage": 1702.6666666666667,
-      "Average Employment": 17103.333333333332
     },
     {
       "NAICS_3digit": "533",
@@ -2347,13 +1892,6 @@
       "Average Employment": 567.5
     },
     {
-      "NAICS_3digit": "533",
-      "Industry": "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)",
-      "Year": 2025,
-      "Average Weekly Wage": 2583.3333333333335,
-      "Average Employment": 533.3333333333334
-    },
-    {
       "NAICS_3digit": "541",
       "Industry": "Professional, Scientific, and Technical Services",
       "Year": 2022,
@@ -2373,13 +1911,6 @@
       "Year": 2024,
       "Average Weekly Wage": 2419.0,
       "Average Employment": 257443.75
-    },
-    {
-      "NAICS_3digit": "541",
-      "Industry": "Professional, Scientific, and Technical Services",
-      "Year": 2025,
-      "Average Weekly Wage": 2427.6666666666665,
-      "Average Employment": 258914.66666666666
     },
     {
       "NAICS_3digit": "551",
@@ -2403,13 +1934,6 @@
       "Average Employment": 41043.5
     },
     {
-      "NAICS_3digit": "551",
-      "Industry": "Management of Companies and Enterprises",
-      "Year": 2025,
-      "Average Weekly Wage": 4294.333333333333,
-      "Average Employment": 40687.0
-    },
-    {
       "NAICS_3digit": "561",
       "Industry": "Administrative and Support Services",
       "Year": 2022,
@@ -2429,13 +1953,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1219.0,
       "Average Employment": 208740.0
-    },
-    {
-      "NAICS_3digit": "561",
-      "Industry": "Administrative and Support Services",
-      "Year": 2025,
-      "Average Weekly Wage": 1261.3333333333333,
-      "Average Employment": 207097.0
     },
     {
       "NAICS_3digit": "562",
@@ -2459,13 +1976,6 @@
       "Average Employment": 12465.75
     },
     {
-      "NAICS_3digit": "562",
-      "Industry": "Waste Management and Remediation Services",
-      "Year": 2025,
-      "Average Weekly Wage": 2139.3333333333335,
-      "Average Employment": 13171.333333333334
-    },
-    {
       "NAICS_3digit": "611",
       "Industry": "Educational Services",
       "Year": 2022,
@@ -2485,13 +1995,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1419.25,
       "Average Employment": 61304.75
-    },
-    {
-      "NAICS_3digit": "611",
-      "Industry": "Educational Services",
-      "Year": 2025,
-      "Average Weekly Wage": 1432.0,
-      "Average Employment": 62281.0
     },
     {
       "NAICS_3digit": "621",
@@ -2515,13 +2018,6 @@
       "Average Employment": 190314.0
     },
     {
-      "NAICS_3digit": "621",
-      "Industry": "Ambulatory Health Care Services",
-      "Year": 2025,
-      "Average Weekly Wage": 1339.3333333333333,
-      "Average Employment": 194411.66666666666
-    },
-    {
       "NAICS_3digit": "622",
       "Industry": "Hospitals",
       "Year": 2022,
@@ -2541,13 +2037,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1678.75,
       "Average Employment": 97742.0
-    },
-    {
-      "NAICS_3digit": "622",
-      "Industry": "Hospitals",
-      "Year": 2025,
-      "Average Weekly Wage": 1725.0,
-      "Average Employment": 99123.0
     },
     {
       "NAICS_3digit": "623",
@@ -2571,13 +2060,6 @@
       "Average Employment": 34027.5
     },
     {
-      "NAICS_3digit": "623",
-      "Industry": "Nursing and Residential Care Facilities",
-      "Year": 2025,
-      "Average Weekly Wage": 829.3333333333334,
-      "Average Employment": 33782.333333333336
-    },
-    {
       "NAICS_3digit": "624",
       "Industry": "Social Assistance",
       "Year": 2022,
@@ -2597,13 +2079,6 @@
       "Year": 2024,
       "Average Weekly Wage": 616.0,
       "Average Employment": 54566.5
-    },
-    {
-      "NAICS_3digit": "624",
-      "Industry": "Social Assistance",
-      "Year": 2025,
-      "Average Weekly Wage": 623.6666666666666,
-      "Average Employment": 55026.333333333336
     },
     {
       "NAICS_3digit": "711",
@@ -2627,13 +2102,6 @@
       "Average Employment": 8246.5
     },
     {
-      "NAICS_3digit": "711",
-      "Industry": "Performing Arts, Spectator Sports, and Related Industries",
-      "Year": 2025,
-      "Average Weekly Wage": 2800.3333333333335,
-      "Average Employment": 8435.333333333334
-    },
-    {
       "NAICS_3digit": "712",
       "Industry": "Museums, Historical Sites, and Similar Institutions",
       "Year": 2022,
@@ -2653,13 +2121,6 @@
       "Year": 2024,
       "Average Weekly Wage": 878.0,
       "Average Employment": 4059.25
-    },
-    {
-      "NAICS_3digit": "712",
-      "Industry": "Museums, Historical Sites, and Similar Institutions",
-      "Year": 2025,
-      "Average Weekly Wage": 925.6666666666666,
-      "Average Employment": 4090.0
     },
     {
       "NAICS_3digit": "713",
@@ -2683,13 +2144,6 @@
       "Average Employment": 27863.0
     },
     {
-      "NAICS_3digit": "713",
-      "Industry": "Amusement, Gambling, and Recreation Industries",
-      "Year": 2025,
-      "Average Weekly Wage": 521.3333333333334,
-      "Average Employment": 29416.333333333332
-    },
-    {
       "NAICS_3digit": "721",
       "Industry": "Accommodation",
       "Year": 2022,
@@ -2709,13 +2163,6 @@
       "Year": 2024,
       "Average Weekly Wage": 794.5,
       "Average Employment": 26735.5
-    },
-    {
-      "NAICS_3digit": "721",
-      "Industry": "Accommodation",
-      "Year": 2025,
-      "Average Weekly Wage": 811.0,
-      "Average Employment": 27046.0
     },
     {
       "NAICS_3digit": "722",
@@ -2739,13 +2186,6 @@
       "Average Employment": 292997.25
     },
     {
-      "NAICS_3digit": "722",
-      "Industry": "Food Services and Drinking Places",
-      "Year": 2025,
-      "Average Weekly Wage": 517.0,
-      "Average Employment": 294779.3333333333
-    },
-    {
       "NAICS_3digit": "811",
       "Industry": "Repair and Maintenance",
       "Year": 2022,
@@ -2765,13 +2205,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1455.5,
       "Average Employment": 43944.5
-    },
-    {
-      "NAICS_3digit": "811",
-      "Industry": "Repair and Maintenance",
-      "Year": 2025,
-      "Average Weekly Wage": 1438.0,
-      "Average Employment": 44442.0
     },
     {
       "NAICS_3digit": "812",
@@ -2795,13 +2228,6 @@
       "Average Employment": 35059.5
     },
     {
-      "NAICS_3digit": "812",
-      "Industry": "Personal and Laundry Services",
-      "Year": 2025,
-      "Average Weekly Wage": 780.6666666666666,
-      "Average Employment": 35152.0
-    },
-    {
       "NAICS_3digit": "813",
       "Industry": "Religious, Grantmaking, Civic, Professional, and Similar Organizations",
       "Year": 2022,
@@ -2823,13 +2249,6 @@
       "Average Employment": 14514.0
     },
     {
-      "NAICS_3digit": "813",
-      "Industry": "Religious, Grantmaking, Civic, Professional, and Similar Organizations",
-      "Year": 2025,
-      "Average Weekly Wage": 1114.6666666666667,
-      "Average Employment": 14163.0
-    },
-    {
       "NAICS_3digit": "999",
       "Industry": "Unclassified",
       "Year": 2022,
@@ -2849,13 +2268,6 @@
       "Year": 2024,
       "Average Weekly Wage": 1102.0,
       "Average Employment": 2442.75
-    },
-    {
-      "NAICS_3digit": "999",
-      "Industry": "Unclassified",
-      "Year": 2025,
-      "Average Weekly Wage": 1218.6666666666667,
-      "Average Employment": 3297.0
     }
   ],
   "tier_trend": [
@@ -2878,12 +2290,6 @@
       "Average Employment": 28234.9375
     },
     {
-      "AI_Tier": "Low",
-      "Year": 2025,
-      "Average Weekly Wage": 1566.164705882353,
-      "Average Employment": 28414.870588235295
-    },
-    {
       "AI_Tier": "Medium",
       "Year": 2022,
       "Average Weekly Wage": 1472.6517857142858,
@@ -2902,12 +2308,6 @@
       "Average Employment": 39795.55357142857
     },
     {
-      "AI_Tier": "Medium",
-      "Year": 2025,
-      "Average Weekly Wage": 1667.8214285714287,
-      "Average Employment": 40230.666666666664
-    },
-    {
       "AI_Tier": "High",
       "Year": 2022,
       "Average Weekly Wage": 1984.4910714285713,
@@ -2924,12 +2324,6 @@
       "Year": 2024,
       "Average Weekly Wage": 2145.6203703703704,
       "Average Employment": 33540.87962962963
-    },
-    {
-      "AI_Tier": "High",
-      "Year": 2025,
-      "Average Weekly Wage": 2192.5555555555557,
-      "Average Employment": 33378.51851851852
     }
   ]
 }

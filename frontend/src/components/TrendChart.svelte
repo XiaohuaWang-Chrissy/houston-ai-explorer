@@ -15,7 +15,7 @@
   let canvas
   let chart
 
-  const YEARS = [2022, 2023, 2024, 2025]
+  const YEARS = [2022, 2023, 2024]
 
   function buildDatasets() {
     const industryValues = YEARS.map(y => {
